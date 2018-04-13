@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Vitorias">Wins</string>
+    <string name="derrotas">defeat</string>
+    <string name="Empates">draws</string>
+    <string name="btjogar">Play</string>
+    <string name="app_name">NACDADO</string>
+</resources>

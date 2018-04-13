@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NACDADO</string>
+    <string name="Vitorias">Vitórias</string>
+    <string name="derrotas">Derrotas</string>
+    <string name="Empates">Empates</string>
+    <string name="btjogar">Jogar</string>
+
+</resources>
